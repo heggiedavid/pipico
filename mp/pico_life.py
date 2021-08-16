@@ -1,3 +1,11 @@
+# pico_life
+# a piss poor implementation of life - not convinced it's actually working
+
+# TODO: Make colours configurable
+# TODO: Make grids fade between each other
+# TODO: Make rulesets configurable
+# TODO: Make sure it's actually working properly ...
+
 import picounicorn
 import random
 import time
